@@ -1003,7 +1003,7 @@ export const formatPrice = (price: number): string => {
 export const calculateEMI = (
   principal: number,
   interestRate: number,
-  tenure: number // in months
+  tenure: number 
 ): number => {
   const monthlyInterest = interestRate / 12 / 100;
   const emi = principal * monthlyInterest * Math.pow(1 + monthlyInterest, tenure) / 
