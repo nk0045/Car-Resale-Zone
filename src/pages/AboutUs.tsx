@@ -13,7 +13,7 @@ const AboutUs = () => {
         <div className="bg-white rounded-lg shadow-md overflow-hidden mb-12">
           <div className="h-80 overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1560419015-35a5d07ad675?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+              src="https://img.freepik.com/premium-photo/top-view-car-dealership-showroom-with-customers-salesmen-modern-glass-building-with-brand-new-cars-inside_116317-22001.jpg"
               alt="NK Resale Zone Showroom"
               className="w-full h-full object-cover"
             />
